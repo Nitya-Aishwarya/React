@@ -398,11 +398,3 @@ The real problem was managing synchronization between application data and the D
 React's primary goal is to solve this synchronization problem by making the user interface a predictable function of data.
 
 ---
-
-## End of Chapter 2 – Part 2
-
-In the next section, we will study:
-
-# Browser Rendering Engine, CSSOM, Render Tree, Layout, Paint, Reflow, and Repaint
-
-This section is crucial because it explains **why DOM updates are expensive** and why React eventually introduced the **Virtual DOM** as an optimization strategy. Understanding browser rendering performance is the final prerequisite before learning how React internally updates the user interface.
