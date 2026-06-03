@@ -1,6 +1,4 @@
-# Chapter 4: React Hooks
-
-# Part 6: `useContext` — Complete In-Depth Explanation with Context, Provider, Consumer, Prop Drilling, Shared State, Theme, Auth, and Real Examples
+# Part 5: `useContext` — Complete In-Depth Explanation with Context, Provider, Consumer, Prop Drilling, Shared State, Theme, Auth, and Real Examples
 
 ---
 
